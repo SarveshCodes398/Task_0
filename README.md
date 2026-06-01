@@ -116,7 +116,7 @@ GET /api/v1/tasks
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone [https://github.com/yourusername/project-name.git](https://github.com/SarveshCodes398/Task_0.git)
 ```
 
 ### Backend Setup
@@ -197,22 +197,14 @@ frontend/
 
 
 
-## Live Demo
 
-Frontend:
-https://your-frontend-link
-
-Backend:
-https://your-backend-link
-
----
 
 ## Author
 
 Sarvesh Mathur
 
 GitHub:
-https://github.com/yourusername
+https://github.com/sarveshcodes398
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/sarveshcodes398
